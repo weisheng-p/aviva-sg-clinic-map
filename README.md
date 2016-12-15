@@ -1,17 +1,17 @@
 # aviva-sg-clinic-map
 
-aviva-sg-clinic-map is a map of all clinics that are covered by MyBenefits Plus Panel.
+[aviva-sg-clinic-map](https://weisheng-p.github.io/aviva-sg-clinic-map/) is a map of all clinics that are covered by MyBenefits Plus Panel.
 
 *Data last updated May 2016*
 
 ## Problem
-You are sick and Aviva has a hard to use [list of clinic](https://www.aviva.com.sg/pdf/Aviva_MyBenefits_Clinic_Listing.pdf)
+You are sick and Aviva has a hard to use [list of clinic](https://www.aviva.com.sg/pdf/Aviva_MyBenefits_Clinic_Listing.pdf).
 
 ## Solution
 1. Extract list of clinic
 2. Geocode all the clinic
 3. Plot it nicely on a map
-4. Find the clinic
+4. Find the clinic on the [map](https://weisheng-p.github.io/aviva-sg-clinic-map/)
 
 ## Copyright and license
 Code copyright 2016 weisheng-p.
